@@ -19,7 +19,7 @@ I’m a Senior Software Engineer with over **12 years of experience** building s
 `C#`, `.NET Core`, `ASP.NET MVC`, `Blazor`, `Web API`, `Entity Framework`, `LINQ`
 
 **Frontend Technologies:**  
-`JavaScript`, `jQuery`, `Angular`, `Vue.js`, `Vuetify`, `Blazor WebAssembly`, `Razor Pages`
+`JavaScript`, `jQuery`, `Angular`, `React`, `Vue.js`, `Vuetify`, `Blazor WebAssembly`, `Razor Pages`
 
 **Databases:**  
 `SQL Server`, `PostgreSQL`, `MySQL`, `Oracle`, `ADO.NET`
